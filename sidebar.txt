@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ldo:home|Door43 (ldo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ldo|d43-ldo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ldo/archive/master.zip|d43-ldo.zip]]
+
+**Recent Changes**
+{{changes>ns = ldo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ldo|Ethnologue data]]
+
